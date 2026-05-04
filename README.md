@@ -21,3 +21,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+# Kurulum
+ git clone https://github.com/tingirifistik/Enough-Reborn.git
+ cd Enough-Reborn
+ pip3 install -r requirements.txt
+ python3 enough.py
